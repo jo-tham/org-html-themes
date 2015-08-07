@@ -19,7 +19,7 @@
 // var HS_COLLAPSIBLE_HEADERS = $('h3, h4, h5'); // collapsible headers
 
 if (typeof HS_STARTUP_FOLDED === 'undefined') {
-    var HS_STARTUP_FOLDED = false;      // Show just the overview, or show all.
+    var HS_STARTUP_FOLDED = true;      // Show just the overview, or show all.
 }
 
 if (typeof HS_SHOW_ALL_TEXT === 'undefined') {
